@@ -296,7 +296,6 @@ padding: 128px 0px;
 }
 .footer-hl{
   color: #FFF;
-font-family: Lato;
 font-size: 48px;
 font-style: normal;
 font-weight: 800;
@@ -305,7 +304,6 @@ line-height: normal;
 .footer-pg{
   color: rgba(255, 255, 255, 0.90);
   text-align: center;
-  font-family: Lato;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
@@ -317,10 +315,8 @@ line-height: normal;
 .copyright{
   color: rgba(255, 255, 255, 0.40);
 text-align: center;
-font-family: Lato;
 font-size: 16px;
 font-style: normal;
 font-weight: 400;
 line-height: normal;
 }
-
