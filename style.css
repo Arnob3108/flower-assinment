@@ -71,7 +71,9 @@
     font-style: normal;
     font-weight: 400;
     line-height: 30px; /* 166.667% */
-    margin: 25px 0px 48px 0px;
+    margin: 0 auto;
+    padding: 2% 0;
+    width: 70%;
   }
   
   /* ==============flower card style========= */
@@ -164,7 +166,6 @@
 }
 .deal-hl {
   color: #272727;
-  font-family: Lato;
   font-size: 40px;
   font-style: normal;
   font-weight: 800;
@@ -173,12 +174,13 @@
 .deal-pg {
   color: rgba(39, 39, 39, 0.6);
   text-align: center;
-  font-family: Lato;
   font-size: 18px;
   font-style: normal;
   font-weight: 400;
-  line-height: 30px; /* 166.667% */
-  margin: 25px;
+  line-height: 30px;
+  margin: 0 auto;
+  padding: 2% 0;
+  width: 70%;
 }
 
 .deal-img {
@@ -242,7 +244,9 @@
   font-style: normal;
   font-weight: 400;
   line-height: 30px; /* 166.667% */
-  margin: 24px 0px 48px 0px;
+  margin: 0 auto;
+  padding: 2% 0;
+  width: 70%;
 }
 .insta-section img {
   margin-right: 10px;
@@ -306,7 +310,9 @@ line-height: normal;
   font-style: normal;
   font-weight: 400;
   line-height: 30px; /* 166.667% */
-  margin: 24px 0 32px 0;
+  margin: 0 auto;
+  padding: 2% 0;
+  width: 70%;
 }
 .copyright{
   color: rgba(255, 255, 255, 0.40);
